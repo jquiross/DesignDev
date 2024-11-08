@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
      <title>DesingDev Studio</title>
@@ -17,7 +17,7 @@
      <link rel="stylesheet" href="css/font-awesome.min.css">
 
      <!-- MAIN CSS -->
-     <link rel="stylesheet" href= 'css/custom.css'>
+     <link rel="stylesheet" href='css/custom.css'>
 
 
 
@@ -31,80 +31,65 @@
 
           </div>
      </section>
-
-
      <!-- MENU -->
      <section class="navbar custom-navbar navbar-fixed-top" role="navigation">
           <div class="container">
-
                <div class="navbar-header">
                     <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                          <span class="icon icon-bar"></span>
                          <span class="icon icon-bar"></span>
                          <span class="icon icon-bar"></span>
                     </button>
-
-                    <!-- lOGO TEXT HERE -->
+                    <!-- LOGO TEXT HERE -->
                     <a href="index.html" class="navbar-brand">DesingDev Studio</a>
                </div>
-
                <!-- MENU LINKS -->
                <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
-                         <li><a href="#home" class="smoothScroll">Home</a></li>
                          <li><a href="#feature" class="smoothScroll">Que ofrecemos</a></li>
-                         <li><a href="aboutus.html" class="smoothScroll">Sobre nosotros</a></li>
+                         <li><a href="aboutus.php" class="smoothScroll">Sobre nosotros</a></li>
                          <li><a href="#pricing" class="smoothScroll">Planes</a></li>
                          <li><a href="#contact" class="smoothScroll">Contáctenos</a></li>
+                         <li><a href="login.html" class="smoothScroll">Login</a></li>
                     </ul>
                </div>
-
           </div>
      </section>
-
 
      <!-- FEATURE -->
      <section id="home" data-stellar-background-ratio="0.5">
           <div class="overlay"></div>
           <div class="container">
                <div class="row">
-
                     <div class="col-md-offset-3 col-md-6 col-sm-12">
                          <div class="home-info">
-                              <h3>professional landing page</h3>
+                              <h3></h3>
                               <h1>Impulsa tu marca</h1>
                               <form action="" method="get" class="online-form">
                                    <input type="email" name="email" class="form-control" placeholder="Enter your email" required="">
-                                   <button type="submit" class="form-control">Get started</button>
+                                   <button type="submit" class="form-control">¡Empecemos a Desarrollar!</button>
                               </form>
                          </div>
                     </div>
-
                </div>
           </div>
      </section>
-
 
      <!-- FEATURE -->
      <section id="feature" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
-
                     <div class="col-md-12 col-sm-12">
                          <div class="section-title">
                               <h1>What you get</h1>
                          </div>
                     </div>
-
                     <div class="col-md-6 col-sm-6">
                          <ul class="nav nav-tabs" role="tablist">
                               <li class="active"><a href="#tab01" aria-controls="tab01" role="tab" data-toggle="tab">Responsive</a></li>
-
                               <li><a href="#tab02" aria-controls="tab02" role="tab" data-toggle="tab">Mobile</a></li>
-
                               <li><a href="#tab03" aria-controls="tab03" role="tab" data-toggle="tab">Support</a></li>
                          </ul>
-
                          <div class="tab-content">
                               <div class="tab-pane active" id="tab01" role="tabpanel">
                                    <div class="tab-pane-item">
@@ -116,8 +101,6 @@
                                         <p>Aliquam massa massa, consectetur non mattis fringilla, sodales ac turpis. Morbi ac felis sagittis, faucibus mauris vitae, placerat mauris.</p>
                                    </div>
                               </div>
-
-
                               <div class="tab-pane" id="tab02" role="tabpanel">
                                    <div class="tab-pane-item">
                                         <h2>Compatible Browsers</h2>
@@ -132,7 +115,6 @@
                                         <p>In viverra ipsum ornare sapien rhoncus ullamcorper. Vivamus vitae risus ac mi vehicula sagittis. Nulla dictum magna sit amet pharetra aliquam.</p>
                                    </div>
                               </div>
-
                               <div class="tab-pane" id="tab03" role="tabpanel">
                                    <div class="tab-pane-item">
                                         <h2>Quick Support</h2>
@@ -144,34 +126,26 @@
                                    </div>
                               </div>
                          </div>
-
                     </div>
-
                     <div class="col-md-6 col-sm-6">
                          <div class="feature-image">
                               <img src="images/feature-mockup.png" class="img-responsive" alt="Thin Laptop">
                          </div>
                     </div>
-
                </div>
           </div>
      </section>
-
-
      <!-- ABOUT -->
 
      <!-- TESTIMONIAL -->
      <section id="testimonial" data-stellar-background-ratio="0.5">
           <div class="container">
                <div class="row">
-
                     <div class="col-md-6 col-sm-12">
                          <div class="testimonial-image"></div>
                     </div>
-
                     <div class="col-md-6 col-sm-12">
                          <div class="testimonial-info">
-
                               <div class="section-title">
                                    <h1>What People Say</h1>
                               </div>
@@ -321,9 +295,7 @@
 
                     <div class="copyright-text col-md-12 col-sm-12">
                          <div class="col-md-6 col-sm-6">
-                              <p>Copyright &copy; 2018 Company Name - Design:
-                                   <a rel="nofollow" href="http://tooplate.com">Tooplate</a>
-                              </p>
+                              <p>Copyright &copy; 2024 - DesignDev Studio</p>
                          </div>
                          <ul class="nav navbar-nav navbar-right">
                               <li><a href="#">Correo directo - <span>designdev.studiocr@gmail.com</span></a></li>
